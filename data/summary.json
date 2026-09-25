@@ -1,0 +1,15 @@
+{
+  "reconciliation_time": "2026-09-25 12:58:57",
+  "total_ledger_rows": 1000,
+  "total_gateway_rows": 964,
+  "total_classifications": 1081,
+  "status_breakdown": {
+    "MATCHED": 702,
+    "MISSING_IN_GATEWAY": 161,
+    "MISSING_IN_LEDGER": 81,
+    "AMOUNT_MISMATCH": 93,
+    "DUPLICATE_IN_GATEWAY": 44
+  },
+  "value_at_risk_kobo": 485046933,
+  "value_at_risk_naira": 4850469.33
+}
